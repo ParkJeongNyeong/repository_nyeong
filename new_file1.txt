@@ -1,3 +1,5 @@
-hi
-its new_file1.txt
+this is new_file1.txt
+
+second commit
 end
+let's go
